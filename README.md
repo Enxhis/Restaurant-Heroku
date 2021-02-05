@@ -30,7 +30,7 @@
  * Navigate to localhost port : http://localhost3000 in the browser
  
 ## Links
- * GitHub repository link: 
+ * GitHub repository link: https://github.com/Enxhis/Restaurant-Heroku
  * Heroku deployed application link: https://shrouded-ravine-23453.herokuapp.com
  
 ## Contribution
